@@ -1,4 +1,6 @@
-﻿namespace Model_binding_and_Validations.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Model_binding_and_Validations.Models
 {
 	public class User
 	{
