@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\myLearnings\\Model_binding_and_Validations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|c:\\mylearnings\\model_binding_and_validations\\model_binding_and_validations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|solutionrelative:model_binding_and_validations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|c:\\mylearnings\\model_binding_and_validations\\model_binding_and_validations\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|solutionrelative:model_binding_and_validations\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|c:\\mylearnings\\model_binding_and_validations\\model_binding_and_validations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|solutionrelative:model_binding_and_validations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Model_binding_and_Validations\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Model_binding_and_Validations\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:55:49.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hello.cs",
+              "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Hello.cs",
+              "RelativeDocumentMoniker": "Model_binding_and_Validations\\Hello.cs",
+              "ToolTip": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Hello.cs",
+              "RelativeToolTip": "Model_binding_and_Validations\\Hello.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:55:06.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Program.cs",
+              "RelativeDocumentMoniker": "Model_binding_and_Validations\\Program.cs",
+              "ToolTip": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Program.cs",
+              "RelativeToolTip": "Model_binding_and_Validations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:53:29.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
