@@ -27,3 +27,6 @@ C:\myLearnings\Model_binding_and_Validations\Model_binding_and_Validations\obj\D
 C:\myLearnings\Model_binding_and_Validations\Model_binding_and_Validations\obj\Debug\net8.0\Model_binding_and_Validations.pdb
 C:\myLearnings\Model_binding_and_Validations\Model_binding_and_Validations\obj\Debug\net8.0\Model_binding_and_Validations.genruntimeconfig.cache
 C:\myLearnings\Model_binding_and_Validations\Model_binding_and_Validations\obj\Debug\net8.0\ref\Model_binding_and_Validations.dll
+C:\myLearnings\Model_binding_and_Validations\Model_binding_and_Validations\obj\Debug\net8.0\Model_binding_and_Validations.RazorAssemblyInfo.cache
+C:\myLearnings\Model_binding_and_Validations\Model_binding_and_Validations\obj\Debug\net8.0\Model_binding_and_Validations.RazorAssemblyInfo.cs
+C:\myLearnings\Model_binding_and_Validations\Model_binding_and_Validations\obj\Debug\net8.0\Model_binding_and_Validations.sourcelink.json

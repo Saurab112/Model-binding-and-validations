@@ -4,6 +4,7 @@ namespace Model_binding_and_Validations.Controllers
 {
 	public class HomeController : Controller
 	{
+		//illustrating [FromRoute] and [FromQuery]
 		//getbyname?name=Saurab
 		[HttpGet("/getbyname")]
 		public IActionResult Index([FromQuery] string name)
