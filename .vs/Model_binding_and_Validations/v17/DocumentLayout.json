@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\myLearnings\\Model_binding_and_Validations\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|c:\\mylearnings\\model_binding_and_validations\\model_binding_and_validations\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|solutionrelative:model_binding_and_validations\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|c:\\mylearnings\\model_binding_and_validations\\model_binding_and_validations\\customvalidators\\minimumyearvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|solutionrelative:model_binding_and_validations\\customvalidators\\minimumyearvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|c:\\mylearnings\\model_binding_and_validations\\model_binding_and_validations\\customvalidators\\customemailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|solutionrelative:model_binding_and_validations\\customvalidators\\customemailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|c:\\mylearnings\\model_binding_and_validations\\model_binding_and_validations\\models\\user11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|solutionrelative:model_binding_and_validations\\models\\user11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|c:\\mylearnings\\model_binding_and_validations\\model_binding_and_validations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|solutionrelative:model_binding_and_validations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|c:\\mylearnings\\model_binding_and_validations\\model_binding_and_validations\\views\\user11\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|solutionrelative:model_binding_and_validations\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|c:\\mylearnings\\model_binding_and_validations\\model_binding_and_validations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|solutionrelative:model_binding_and_validations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|c:\\mylearnings\\model_binding_and_validations\\model_binding_and_validations\\views\\user\\getuserdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C66B6A6-B8E2-4162-9D8A-2C2AC5AD6E1B}|Model_binding_and_Validations\\Model_binding_and_Validations.csproj|solutionrelative:model_binding_and_validations\\views\\user\\getuserdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -50,11 +62,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Model_binding_and_Validations\\Models\\Event.cs",
+              "ToolTip": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Models\\Event.cs",
+              "RelativeToolTip": "Model_binding_and_Validations\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:51:12.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinimumYearValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "Model_binding_and_Validations\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "ToolTip": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "RelativeToolTip": "Model_binding_and_Validations\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:40:12.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomEmailValidation.cs",
+              "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\CustomValidators\\CustomEmailValidation.cs",
+              "RelativeDocumentMoniker": "Model_binding_and_Validations\\CustomValidators\\CustomEmailValidation.cs",
+              "ToolTip": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\CustomValidators\\CustomEmailValidation.cs",
+              "RelativeToolTip": "Model_binding_and_Validations\\CustomValidators\\CustomEmailValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:35:16.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\appsettings.json",
               "RelativeDocumentMoniker": "Model_binding_and_Validations\\appsettings.json",
@@ -62,12 +113,11 @@
               "RelativeToolTip": "Model_binding_and_Validations\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-27T10:12:07.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T10:12:07.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Views\\User11\\Create.cshtml",
               "RelativeDocumentMoniker": "Model_binding_and_Validations\\Views\\User11\\Create.cshtml",
@@ -75,12 +125,11 @@
               "RelativeToolTip": "Model_binding_and_Validations\\Views\\User11\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T09:51:58.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T09:51:58.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "User11Controller.cs",
               "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Controllers\\User11Controller.cs",
               "RelativeDocumentMoniker": "Model_binding_and_Validations\\Controllers\\User11Controller.cs",
@@ -88,25 +137,24 @@
               "RelativeToolTip": "Model_binding_and_Validations\\Controllers\\User11Controller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T09:48:37.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T09:48:37.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "User11.cs",
               "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Models\\User11.cs",
               "RelativeDocumentMoniker": "Model_binding_and_Validations\\Models\\User11.cs",
               "ToolTip": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Models\\User11.cs",
               "RelativeToolTip": "Model_binding_and_Validations\\Models\\User11.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T09:47:58.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "GetUserDetails.cshtml",
               "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Views\\User\\GetUserDetails.cshtml",
               "RelativeDocumentMoniker": "Model_binding_and_Validations\\Views\\User\\GetUserDetails.cshtml",
@@ -118,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Model_binding_and_Validations\\Controllers\\UserController.cs",
@@ -126,12 +174,11 @@
               "RelativeToolTip": "Model_binding_and_Validations\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T02:08:56.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T02:08:56.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Models\\User.cs",
               "RelativeDocumentMoniker": "Model_binding_and_Validations\\Models\\User.cs",
@@ -139,25 +186,24 @@
               "RelativeToolTip": "Model_binding_and_Validations\\Models\\User.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T02:03:24.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T02:03:24.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Model_binding_and_Validations\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Model_binding_and_Validations\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T23:55:49.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Hello.cs",
               "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Hello.cs",
               "RelativeDocumentMoniker": "Model_binding_and_Validations\\Hello.cs",
@@ -169,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\myLearnings\\Model_binding_and_Validations\\Model_binding_and_Validations\\Program.cs",
               "RelativeDocumentMoniker": "Model_binding_and_Validations\\Program.cs",
