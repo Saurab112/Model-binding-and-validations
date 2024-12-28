@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ContainingType": "Model_binding_and_Validations.Controllers.StudentController",
+    "Method": "SaveStudent",
+    "RelativePath": "api/Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "Model_binding_and_Validations.Models.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
