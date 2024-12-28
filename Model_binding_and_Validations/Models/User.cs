@@ -25,6 +25,20 @@ namespace Model_binding_and_Validations.Models
 
 		//The entity model represents a User table in a database, and Entity Framework would map this class to the corresponding table in your database.
 
+		//For future reference:
+		/*
+		 * ASP.NET Model Binding 
+		 * **Key Concepts:**
+		1. **Automatic Mapping** - Automatically maps incoming data (query strings, form data) to controller action parameters.
+		2. **Model Binding Sources**:
+		- Form Fields (POST requests)
+		- Query Strings (GET requests)
+		- Route Data (URL Segments)
+		- JSON Data (Body of Request)
+		3. **Custom Model Binders** - Allows creation of custom logic for binding complex data types.
+		4. **Validation** - Automatically performs validation through `DataAnnotations`.
+		*/
+
 
 	}
 }

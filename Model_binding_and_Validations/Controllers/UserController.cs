@@ -10,9 +10,9 @@ namespace Model_binding_and_Validations.Controllers
 		{
 			return View();
 		}
-		//model binding to automatically map values from the HTTP request (query string, form data, route data, etc.) to the properties of a model
+		//model binding automatically map values from the HTTP request (query string, form data, route data, etc.) to the properties of a model
 		[Route("/user")]
-		public IActionResult UserName([FromQuery] User user)
+		public IActionResult UserName([FromQuery] User user)  //http://localhost:5042/user?username=saurab
 		{
 			 // The User model is automatically populated from query parameters /user?username=saurab
 			 //user.UserName gets value from query string
@@ -29,8 +29,6 @@ namespace Model_binding_and_Validations.Controllers
 		public IActionResult GetUserDetails(int id)
 		{
 			var user = new User() {  UserID = id, Email = "saurab11@gmail.com", UserName="Saurab" };
-			
-			
 			return View(user);
 		}
 	}

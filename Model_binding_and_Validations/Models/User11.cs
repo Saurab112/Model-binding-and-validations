@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Model_binding_and_Validations.CustomValidators;
 
 namespace Model_binding_and_Validations.Models
 {
@@ -14,6 +15,7 @@ namespace Model_binding_and_Validations.Models
 
 		[Required(ErrorMessage ="Email is required")]
 		[EmailAddress(ErrorMessage ="Invalid email format.")]
+
 		[CustomEmailValidation]
 		public string Email { get; set; }
 	}

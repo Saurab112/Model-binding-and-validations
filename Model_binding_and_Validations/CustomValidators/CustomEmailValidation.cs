@@ -2,11 +2,11 @@
 
 namespace Model_binding_and_Validations.CustomValidators
 {
-	public class CustomEmailValidation : ValidationAttribute 
+	public class CustomEmailValidation : ValidationAttribute
 	{
 		public override bool IsValid(object? value)
 		{
-			if(value == null)
+			if (value == null)
 			{
 				return false;
 			}

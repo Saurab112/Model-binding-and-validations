@@ -24,7 +24,7 @@ namespace Model_binding_and_Validations.Controllers
            Use [FromRoute] when you want to extract values directly from the URL path (i.e., the route template).
 		 */
 
-		[HttpGet("/user/{userId}/{firstname}/{lastname}")]
+		[HttpGet("/user/{firstname}/{lastname}")]  //not required to write query string in route
 		//http://localhost:5042/user/saurab/raj?userId=10
 		public IActionResult GetUserbyUserId([FromQuery] int userId, [FromRoute] string firstname, [FromRoute] string lastname)
 		{

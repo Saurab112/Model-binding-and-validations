@@ -19,6 +19,19 @@ namespace Model_binding_and_Validations.Controllers
 			{
 				return Content($"User:{user.FirstName} {user.LastName} with Email: {user.Email} is successfully created");
 			}
+			else
+			{
+				string errors = "Validation Errors: ";
+				foreach(var key in ModelState.Keys)
+				{
+					var state = ModelState[key];
+					foreach(var error in state.Errors)
+					{
+						errors += $"{key}: {error.ErrorMessage}\n";
+					}
+				}
+				return Content(errors);
+			}
 			// If the model is not valid, return to the form with validation errors.
 			return View(user);
 		}
