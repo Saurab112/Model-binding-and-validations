@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Model_binding_and_Validations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d12ed6c511e154d9785e6f988b6ebb7d5daf7b60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d3692dc402560af8454cc625259d12f324d1621")]
 [assembly: System.Reflection.AssemblyProductAttribute("Model_binding_and_Validations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Model_binding_and_Validations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
